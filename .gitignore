@@ -33,3 +33,7 @@ lerna-debug.log*
 !.vscode/tasks.json
 !.vscode/launch.json
 !.vscode/extensions.jsonYOUR-FILE-WITH-SENSITIVE-DATA
+
+# Yarn lock 
+
+yarn.lock
